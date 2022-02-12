@@ -1,6 +1,4 @@
-# Music_Player2
-
-A new Flutter project.
+A music player... quite literally
 
 ## Getting Started
 
